@@ -1,4 +1,4 @@
-A small program to allow you to type Esperanto characters.
+# A small program to allow you to type Esperanto characters.
 
 Typing "cx" will change into ĉ, and the same for ĝ, ŝ, ĵ, ĥ, and ŭ (and their capital counterparts)
 
