@@ -5,8 +5,8 @@ Typing "cx" will change into ĉ, and the same for ĝ, ŝ, ĵ, ĥ, and ŭ (and th
 A tray icon (found in the bottom right of your monitor) allows you to toggle on and off the program.
 
 If you want to change it to "ch", simply edit the .ahk (source) file.
-Change the line "::cx::ĉ" to "::ch::ĉ", and the same with hx, etc.
+Change the line `::cx::ĉ` to `::ch::ĉ`, and the same with hx, etc.
 You will then need to recompile or run the .ahk file.
-Link to AutoHotkey website: www.autohotkey.com
+[AHK Website](https://www.AutoHotkey.com "Official Website of AutoHotkey")
 
 The A32, U32, and U64 exes are the ASCII-32, Unicode-32, and Unicode-64 respectively.
